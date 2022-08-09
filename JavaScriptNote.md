@@ -127,6 +127,7 @@ console.log(wang["lastName"])
 prompt("what do you want to know")
 //添加元素 像字典一样
 wang.location = "janpan";
+//可以通过.直接添加元素 进入Object
 console.log(wang)
 
 ```
@@ -307,4 +308,8 @@ console.log(a, b);
 ```
 
 
+
+## Spread 展开符号
+
+可以拼接数组
 

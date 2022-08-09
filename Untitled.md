@@ -1,0 +1,23 @@
+```text
+mc_premium_chip_area_borad_selected
+mc_premium_chip_area_borad_normal
+mc_premium_chip_area_normal
+mc_premium_chip_selected
+
+mc_listener_chip_area_selected
+mc_listener_chip_area_normal
+mc_listener_chip_area_borad_selected
+mc_listener_chip_area_borad_norma
+```
+
+
+
+visible
+
+visiable
+
+
+
+updateMaxBetNormalChip
+
+updateMaxBetPremiumChip 这两个参数需要控制吗
