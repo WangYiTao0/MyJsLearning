@@ -313,3 +313,15 @@ console.log(a, b);
 
 可以拼接数组
 
+```javascript
+//copy arraw
+// shadow copy
+const mainMenuCopy = [...restaurant.mainMenu];
+
+const menu = [...restaurant.mainMenu, ...restaurant.starterMenu];
+
+/// Iterables : arrays, strings, maps , sets, not objects;
+```
+
+
+
